@@ -8,4 +8,6 @@ matplotlib
 bs4
 emoji
 
-Hence, it may take a few minutes for the page to load while the above packages are updated
+Hence, it may take a few minutes for the page to load while the above packages are updated.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bibekbhatta/CodingForAccountants/HEAD)
