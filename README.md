@@ -1,5 +1,5 @@
 # CodingForAccountants
-This repository contains some examples from the Book Chapter "Coding Skills for Accountants". These examples are aimed at beginners who want to learn Python programming language.
+This repository contains some examples from the Book Chapter "Coding Skills for Accountants" in [The Routledge Handbook of Accounting Information Systems, 2nd ed., Routledge](https://www.routledge.com/The-Routledge-Handbook-of-Accounting-Information-Systems/Strauss-Quinn/p/book/9780367678111). These examples are aimed at beginners who want to learn Python programming language.
 
 If you load these files in mybinder.org, the following packages will already be included in the environment:
 
