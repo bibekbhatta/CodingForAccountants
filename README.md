@@ -1,7 +1,7 @@
 # CodingForAccountants
 This repository contains some examples from the book chapter "Coding Skills for Accountants" in [The Routledge Handbook of Accounting Information Systems, 2nd ed., Routledge](https://www.routledge.com/The-Routledge-Handbook-of-Accounting-Information-Systems/Strauss-Quinn/p/book/9780367678111). These examples are aimed at anyone wishing to learn to analyse structured and unstructured data using Python programming language.
 
-If you load these files in (mybinder.org), the following packages will already be included in the environment:
+When you load these files by clicking the "mybinder" banner below, the following packages will already be included in the environment:
 
 pandas/numpy  
 matplotlib  
